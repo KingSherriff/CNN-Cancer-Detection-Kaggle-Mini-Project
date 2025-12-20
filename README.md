@@ -6,7 +6,7 @@
 This project develops a Convolutional Neural Network (CNN) system to assist in the pathological analysis of lymph node cancer tissue slides.
 
 **Key Features:**
-- **Dual Classification:** Predicts present/absent status of cancer in images.
+- **Binary Classification:** Predicts present/absent status of cancer in images.
 - **Ready-to-Use Demo:** An interactive Jupyter Notebook allows users to test the model on new images. (Coming Soon)
 - **Reproducible Research:** Complete training code and methodology are openly documented.
 
