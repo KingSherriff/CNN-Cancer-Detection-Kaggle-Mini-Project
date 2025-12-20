@@ -1,4 +1,3 @@
-To get the data for the project please go to https://www.kaggle.com/competitions/histopathologic-cancer-detection/data
 # A CNN-based tool for lymph node cancer histology image classification
 
 **A deep learning tool for binary (present/absent) classification of histopathology images.**
@@ -44,3 +43,4 @@ For the best results with the demo, input images should meet the following requi
 
 For a deep dive into the data exploration, model architectures, training procedures, and result analysis, please see the complete research notebook:
 **[`research_methodology.ipynb`](research_methodology.ipynb)**
+To get the data for the project please go to [Data Source](https://github.com/basveeling/pcam)
